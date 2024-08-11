@@ -1,3 +1,3 @@
 # c-imp-
-M  y C++ Codes.
+My C++ Codes.
 Author - Shantanu Shrivastava
